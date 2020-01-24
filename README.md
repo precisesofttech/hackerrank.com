@@ -1,2 +1,2 @@
-# hackerrank-algo
+# hackerrank.com
 All algorithms of hackerrank
